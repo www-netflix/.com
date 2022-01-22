@@ -1,0 +1,72 @@
+40.85.122.78 | 28/10/2020 09:02:03 AM | Ireland | Windows 10 | Firefox
+40.85.122.78 | 28/10/2020 12:19:29 PM | Ireland | Windows 10 | Chrome
+158.101.100.253 | 06/11/2020 17:49:07 PM | United States | Windows 10 | Firefox
+158.101.100.253 | 06/11/2020 20:02:22 PM | United States | Windows 10 | Chrome
+98.234.41.201 | 06/11/2020 21:34:46 PM | United States | Windows 7 | Firefox
+158.101.100.253 | 06/11/2020 22:36:00 PM | United States | Windows 10 | Chrome
+205.251.148.98 | 07/11/2020 00:19:12 AM | United States | iPhone | Handheld Browser
+192.190.19.103 | 07/11/2020 00:19:15 AM | Canada | Android | Handheld Browser
+80.44.22.29 | 07/11/2020 00:19:36 AM | United Kingdom | Windows 10 | Firefox
+80.44.22.29 | 07/11/2020 00:19:37 AM | United Kingdom | Windows 10 | Firefox
+79.98.131.43 | 07/11/2020 00:27:04 AM | Turkey | Windows 10 | Chrome
+79.98.131.43 | 07/11/2020 00:28:44 AM | Turkey | Windows 10 | Chrome
+79.98.131.43 | 07/11/2020 00:31:37 AM | Turkey | Windows 10 | Chrome
+79.98.131.43 | 07/11/2020 00:32:41 AM | Turkey | Windows 10 | Chrome
+79.98.131.43 | 07/11/2020 00:33:49 AM | Turkey | Windows 10 | Chrome
+159.65.210.36 | 07/11/2020 00:52:59 AM | United Kingdom | Windows 10 | Chrome
+159.65.210.36 | 07/11/2020 00:53:13 AM | United Kingdom | Windows 10 | Chrome
+52.250.30.131 | 07/11/2020 01:10:56 AM | United States | Windows 10 | Chrome
+167.172.0.155 | 07/11/2020 01:18:25 AM | United States | iPhone | Handheld Browser
+178.128.140.117 | 07/11/2020 01:18:25 AM | Netherlands | iPhone | Handheld Browser
+5.62.51.33 | 07/11/2020 01:19:05 AM | Brazil | iPhone | Handheld Browser
+185.244.212.28 | 07/11/2020 01:23:02 AM | Austria | iPhone | Handheld Browser
+5.62.51.33 | 07/11/2020 01:39:24 AM | Brazil | iPhone | Handheld Browser
+167.172.0.155 | 07/11/2020 01:39:34 AM | United States | iPhone | Handheld Browser
+178.128.140.117 | 07/11/2020 01:39:42 AM | Netherlands | iPhone | Handheld Browser
+167.172.0.155 | 07/11/2020 01:55:53 AM | United States | iPhone | Handheld Browser
+178.128.140.117 | 07/11/2020 01:55:53 AM | Netherlands | iPhone | Handheld Browser
+37.252.185.196 | 07/11/2020 02:00:24 AM | Austria | Android | Handheld Browser
+178.128.140.117 | 07/11/2020 02:32:17 AM | Netherlands | iPhone | Handheld Browser
+167.172.0.155 | 07/11/2020 02:32:17 AM | United States | iPhone | Handheld Browser
+167.172.0.155 | 07/11/2020 03:10:21 AM | United States | iPhone | Handheld Browser
+178.128.140.117 | 07/11/2020 03:10:21 AM | Netherlands | iPhone | Handheld Browser
+191.96.4.244 | 07/11/2020 03:10:33 AM | Brazil | iPhone | Handheld Browser
+178.128.140.117 | 07/11/2020 03:44:47 AM | Netherlands | iPhone | Handheld Browser
+167.172.0.155 | 07/11/2020 03:44:47 AM | United States | iPhone | Handheld Browser
+178.128.140.117 | 07/11/2020 04:19:11 AM | Netherlands | iPhone | Handheld Browser
+167.172.0.155 | 07/11/2020 04:19:11 AM | United States | iPhone | Handheld Browser
+45.231.207.25 | 07/11/2020 04:19:44 AM | Belize | iPhone | Handheld Browser
+167.172.0.155 | 07/11/2020 04:55:48 AM | United States | iPhone | Handheld Browser
+178.128.140.117 | 07/11/2020 04:55:48 AM | Netherlands | iPhone | Handheld Browser
+178.128.140.117 | 07/11/2020 05:33:40 AM | Netherlands | iPhone | Handheld Browser
+167.172.0.155 | 07/11/2020 05:33:40 AM | United States | iPhone | Handheld Browser
+45.231.207.25 | 07/11/2020 05:34:11 AM | Belize | iPhone | Handheld Browser
+167.172.0.155 | 07/11/2020 06:14:42 AM | United States | iPhone | Handheld Browser
+178.128.140.117 | 07/11/2020 06:14:43 AM | Netherlands | iPhone | Handheld Browser
+45.231.207.25 | 07/11/2020 06:14:45 AM | Belize | iPhone | Handheld Browser
+167.172.0.155 | 07/11/2020 07:02:12 AM | United States | iPhone | Handheld Browser
+178.128.140.117 | 07/11/2020 07:02:13 AM | Netherlands | iPhone | Handheld Browser
+191.96.13.187 | 07/11/2020 07:02:18 AM | Brazil | iPhone | Handheld Browser
+178.128.140.117 | 07/11/2020 07:45:03 AM | Netherlands | iPhone | Handheld Browser
+167.172.0.155 | 07/11/2020 07:45:03 AM | United States | iPhone | Handheld Browser
+191.96.13.187 | 07/11/2020 07:45:09 AM | Brazil | iPhone | Handheld Browser
+167.172.0.155 | 07/11/2020 08:32:17 AM | United States | iPhone | Handheld Browser
+178.128.140.117 | 07/11/2020 08:32:17 AM | Netherlands | iPhone | Handheld Browser
+5.62.51.83 | 07/11/2020 08:32:22 AM | Brazil | iPhone | Handheld Browser
+158.101.100.253 | 07/11/2020 08:37:39 AM | United States | Windows 10 | Chrome
+167.172.0.155 | 07/11/2020 09:22:09 AM | United States | iPhone | Handheld Browser
+178.128.140.117 | 07/11/2020 09:22:09 AM | Netherlands | iPhone | Handheld Browser
+5.62.51.83 | 07/11/2020 09:22:11 AM | Brazil | iPhone | Handheld Browser
+158.101.100.253 | 07/11/2020 10:03:43 AM | United States | Windows 10 | Chrome
+178.128.140.117 | 07/11/2020 10:04:31 AM | Netherlands | iPhone | Handheld Browser
+167.172.0.155 | 07/11/2020 10:04:31 AM | United States | iPhone | Handheld Browser
+178.128.140.117 | 07/11/2020 10:39:11 AM | Netherlands | iPhone | Handheld Browser
+167.172.0.155 | 07/11/2020 10:39:11 AM | United States | iPhone | Handheld Browser
+191.96.13.170 | 07/11/2020 10:40:03 AM | Brazil | iPhone | Handheld Browser
+167.172.0.155 | 07/11/2020 11:14:35 AM | United States | iPhone | Handheld Browser
+178.128.140.117 | 07/11/2020 11:14:35 AM | Netherlands | iPhone | Handheld Browser
+5.62.51.92 | 07/11/2020 11:15:02 AM | Brazil | iPhone | Handheld Browser
+158.101.100.253 | 07/11/2020 11:29:57 AM | United States | Windows 10 | Chrome
+167.172.0.155 | 07/11/2020 11:48:01 AM | United States | iPhone | Handheld Browser
+178.128.140.117 | 07/11/2020 11:48:01 AM | Netherlands | iPhone | Handheld Browser
+5.62.51.92 | 07/11/2020 11:48:13 AM | Brazil | iPhone | Handheld Browser
